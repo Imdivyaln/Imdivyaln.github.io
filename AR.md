@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Phi Phi and James Bond island, Thailand
-cover-img: "/assets/img/carlaseg.png"
+#cover-img: "/assets/img/carlaseg.png"
 full-width: true
 ---
 
