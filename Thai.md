@@ -2,7 +2,7 @@
 layout: page
 title: Phi Phi and James Bond island, Thailand
 #cover-img: "/assets/img/carlaseg.png"
-full-width: true
+#full-width: true
 ---
 
 In the five days we were in Phuket, we visited two nearby islands. Trips to the surrounding islands are a must thing to do when in Phuket, so please put this in your bucket list of things to do in Phuket. Due to the short trip, we were on, we chose to visit two of the most visited islands. I was truly mesmerized by the shiny turquoise ocean, dozens of islands, natural sea caves, natural rock formations, green vegetation, and the magical bays. The two-day visit to the islands was my most enjoyable time; it made me feel like in heaven.   
