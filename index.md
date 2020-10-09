@@ -19,4 +19,4 @@ I am also a foodie, so there will also be a few food blogs on some scrumptious f
 
 The goal of this blog is to share my experiences which may help a few of you either in your future trips or in buying fashion apparels.
 
-***Make sure to subscribe with your email so you never miss a post!! 
+***Make sure to subscribe with your email so you never miss a post!!***
