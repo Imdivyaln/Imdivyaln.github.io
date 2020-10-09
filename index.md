@@ -3,7 +3,7 @@ layout: page
 #title: Bibliography
 title: Divya Nagesh
 subtitle: Fashion, Travel and Living Blog
-cover-img: ["/assets/img/divya/DSC_0278.jpg","/assets/img/divya/DSC_0293.png","/assets/img/divya/DSC_0427.jpg"]
+cover-img: ["/assets/img/divya/DSC_0278.jpg","/assets/img/divya/DSC_0293.jpg","/assets/img/divya/DSC_0427.jpg"]
 #full-width: true
 ---
 
