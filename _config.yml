@@ -6,25 +6,31 @@
 # --- Required options --- #
 
 # Name of website
-title: Shreyas Ramakrishna
+title: Divya Nagesh
 
 # Your name to show in the footer
-author: Shreyas Ramakrishna
+author: Divya Nagesh
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   #About Me: "aboutme"
-  News: "Updates"
-  Research Projects:
-       - Assured Autonomy: "AR"
-                        #- Autonomous Robots: "AR"
-                        #- Safety Monitors: "SM"
-                        #- Safety Mitigation: "SafeMon"
-                        #- Assurance Cases: "AC"
-  Publications: "AC"
-  Teaching: "teaching"
-  Contact: "contact"
+  Travel:
+     - Thailand: "Thai"
+     - Jaipur & Agra: "Agra"
+     - Singapore: "Singapore"
+     - Switzerland: "Swiss"
+     - Rome: "Rome"
+     - Milan: "Milan"
+  Fashion:
+      - Jaipur Fashion Diary: "JFD"
+  Lifestyle:
+     - Weekly Favourite 1: "WF1"
+     - Weekly Favourite 2: "WF2"
+     - Weekly Favourite 3: "WF3"
+  Beauty:
+     - Summer Essentials: "SE"
+  Contact: "Contact"
   
 
 # --- Logo --- #
@@ -46,14 +52,15 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "shreyas.ramakrishna@vanderbilt.edu"
+  email: "divya.lakshmi2790@gmail.com"
 #  reddit: yourname
-  linkedin: "shreyasramakrishna"
+  #linkedin: "shreyasramakrishna"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
+  instagram: "imdivyaln"
+  youtube: "https://www.youtube.com/results?search_query=imdivya"
+  facebook: "https://www.facebook.com/divya.nagesh.9"
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -63,7 +70,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-google-scholar: "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C43&q=shreyas+ramakrishna&oq=shreyas"
+#google-scholar: "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C43&q=shreyas+ramakrishna&oq=shreyas"
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
@@ -77,6 +84,8 @@ share-links-active:
   facebook: true
   linkedin: true
   google-scholar: true
+  youtube: true
+  instagram: true
   vk: false
 
 # How to display the link to your website in the footer
