@@ -1,29 +1,20 @@
 ---
 layout: page
 #title: Bibliography
-title: PhD Candidate
-subtitle: Electrical Engineering, Vanderbilt University
+title: Divya Nagesh
+subtitle: Fashion, Travel and Living Blog
 cover-img: ["/assets/img/vu1.jpg","/assets/img/vu2.png","/assets/img/vu5.jpg","/assets/img/vu6.jpg"]
 #full-width: true
 ---
 
-Hi, Im Shreyas! I am a fourth year PhD student in Electrical Engineering working at [SCOPE Lab](https://scopelab.ai/index.html) in the “[Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/)” at [Vanderbilt University](https://www.vanderbilt.edu/), Nashville, Tennessee. I work for [DARPA's Assured Autonomy](https://www.darpa.mil/program/assured-autonomy) project and my research focus include Autonomous Vehicles, Deep Learning, Reinforcement Learning and Distributed system.
+Hey! I’m Divya
 
-## Education
+I am from Bangalore, India. I have been looking for an outlet to  be creative, which brings me here. I will be posting all of my travel adventures, lifestyle, fashion and all trendy stuff here. I would like to keep my posts short and interesting. I would like to keep my posts informative, so the travel posts will always have a “ things to explore” section, which will list the top things to do at that particular destination along with related website links, prices, etc.
 
-:mortar_board:  PhD in Electrical Enfineering, 2017 - Present\
-Vanderbilt University, Nashville
+My fashion blog will also have some trendy outfits and accessories along with information on where to find them online.
 
-:mortar_board:  Masters in Electrical Engineering and Computer Science, 2013\
-Technical Univerity Kaiserslautern, Germany
+I am also a foodie, so there will also be a few food blogs on some scrumptious food and drinks.
 
-:mortar_board:  Bachelors in Electronics and Communication Engineering, 2008\
-Visvesvaraya Technological University, India
+The goal of this blog is to share my experiences which may help a few of you either in your future trips or in buying fashion apparels.
 
-## Professional Experience
-
-:man_technologist:  Embedded Design Engineer, 2016\
-Apsis Solutions, Bangalore, India
-
-:man_student:  Research Intern, 2012\
-MasterSkills Learning Solutions, Bangalore, India
+**Make sure to subscribe with your email so you never miss a post!! 
