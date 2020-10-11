@@ -16,7 +16,9 @@ author: Divya Nagesh
 navbar-links:
   #About Me: "aboutme"
   Travel:
-     - Thailand: "Thai"
+     - Thailand:
+           - James Bond Island: "Thai"
+           - Phuket: "phuket"
      - Jaipur & Agra: "Agra"
      - Singapore: "Singapore"
      - Switzerland: "Swiss"
