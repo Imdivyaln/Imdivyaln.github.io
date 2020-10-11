@@ -21,7 +21,7 @@ Next day we woke up surrounded by the amazing ocean view, we chilled out in the 
 
 ### Final Day
 
-***PS: On the third and fourth day, we were on an island tour, about which I will talk in my next blog.
+*** PS: On the third and fourth day, we were on an island tour, about which I will talk in my next blog.***
 
 The Previous evening we went to Illuzion, which is the most visited and impressive night spots on the island of Phuket. We spent a good 4 to 5 hours there, which went well past the midnight. It was early in the morning when we returned, so we were very tired and sleepy. We woke up late in the afternoon and decided to visit the Big Buddha. The huge image of Buddha sits on top of the Nakkerd Hills between Chalong and the Kata. The 45-meter tall monument can be seen from as far away as the Karon Beach. After a brief visit to the Big Buddha, we headed back to the Patong beach, rested there for a while and had some mouthwatering street food. After some delectable food, we headed to full moon brew works, which is located in the Jungceylon mall. After a couple of drinks, we had a comforting foot massage.
 
